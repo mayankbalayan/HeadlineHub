@@ -1,0 +1,20 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment file (API keys)
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
